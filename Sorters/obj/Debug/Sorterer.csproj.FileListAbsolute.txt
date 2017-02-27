@@ -1,0 +1,15 @@
+D:\LevelUP\c#\ClassLibrary1\obj\Debug\Sorterer.csprojResolveAssemblyReference.cache
+D:\LevelUP\c#\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\LevelUP\c#\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\LevelUP\c#\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\LevelUP\c#\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\LevelUP\c#\SortingWithEvents-master\Sorters\bin\Debug\ClassLibrary1.dll
+D:\LevelUP\c#\SortingWithEvents-master\Sorters\bin\Debug\ClassLibrary1.pdb
+D:\LevelUP\c#\SortingWithEvents-master\Sorters\obj\Debug\Sorterer.csprojResolveAssemblyReference.cache
+D:\LevelUP\c#\SortingWithEvents-master\Sorters\obj\Debug\ClassLibrary1.dll
+D:\LevelUP\c#\SortingWithEvents-master\Sorters\obj\Debug\ClassLibrary1.pdb
+D:\LevelUP\c#\WinFormsSorter\Sorters\bin\Debug\ClassLibrary1.dll
+D:\LevelUP\c#\WinFormsSorter\Sorters\bin\Debug\ClassLibrary1.pdb
+D:\LevelUP\c#\WinFormsSorter\Sorters\obj\Debug\Sorterer.csprojResolveAssemblyReference.cache
+D:\LevelUP\c#\WinFormsSorter\Sorters\obj\Debug\ClassLibrary1.dll
+D:\LevelUP\c#\WinFormsSorter\Sorters\obj\Debug\ClassLibrary1.pdb
